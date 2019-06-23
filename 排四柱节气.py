@@ -13,7 +13,7 @@ UUID = str(time.time())
 host = 'http://icalendar.market.alicloudapi.com'
 path = '/ai_metaphysics/calendar/elite'
 #阿里云APPCODE
-appcode = '03ee092d9c6e4c89810f6daa327ee715' 
+appcode = 'z' 
 
 #参数配置
 #时间，如：20180808080808，即2018年08月08日08时08分08秒，默认输入一天某个时间点，返回当天黄历数据
